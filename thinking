@@ -1,0 +1,13 @@
+Protocol
+
+
+Encoder module
+Read
+Type
+Encoding
+
+
+Packet
+data bytes
+len int
+NewPacket
