@@ -5,11 +5,11 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github antonlundstroem/protocol))
 
-(authors "Author Name")
+ (authors "antonlundstroem")
 
-(maintainers "Maintainer Name")
+(maintainers "antonlundstroem")
 
 (license LICENSE)
 
